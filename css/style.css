@@ -1,0 +1,112 @@
+body {
+  font-family: sans-serif;
+  background-image: linear-gradient(to right, #adcefe, #e3e7f8, #fff4cf)
+}
+
+h1 {
+  font-family: 'Franklin Gothic Medium';
+  font-size: 40pt;
+}
+
+h5 {
+  font-family: sans-serif;
+  font-size: 15pt;
+  line-height: 1.15cm;
+}
+
+.bg-purple {
+  background-color: rgba(118,51,249,255);
+}
+
+.navbar-brand {
+  font-family: Arial;
+  font-style: bold;
+  color: white;
+}
+
+.nav-link {
+  font-family: Arial;
+  font-style: bold;
+  color: white;
+}
+
+.background-nav {
+  background-color: grey;
+}
+
+.margin-center {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.text-boots {
+  color: black;
+  font-style: normal;
+}
+
+.button-new {
+  border-radius: 20px;
+  margin-right: 5px;
+}
+
+.drop-right {
+  margin-right: 80px;
+  font-family: Arial;
+  font-style: bold;
+  color: white;
+}
+
+.facebook {
+    font-family: sans-serif;
+    color: blue;
+    text-align: center;
+}
+
+.form-box {
+  width: 350px;
+  background: white;
+  margin: 80px auto;
+  padding: 30px 20px;
+}
+
+.form-login {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px;
+  font-size: 11pt;
+  margin-bottom: 20px;
+}
+
+.btn-login {
+  background: blue;
+  color: white;
+  font-size: 11pt;
+  width: 100%;
+  border: none;
+  border-radius: 6px;
+  padding: 10px 20px;
+  /* margin: 8px 8px; */
+}
+
+.forget {
+  font-family: tahoma;
+  text-decoration: none;
+  margin: 15px 15px;
+}
+
+.btn-regis {
+  background: green;
+  color: white;
+  font-size: 11pt;
+  width: 60%;
+  border: none;
+  border-radius: 6px;
+  padding: 10px 20px;
+  margin: 8px 8px;
+}
+
+hr {
+  margin: 10px 10px 5px 10px;
+}
+
+ 
